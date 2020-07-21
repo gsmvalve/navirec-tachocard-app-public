@@ -1,17 +1,21 @@
 # Navirec Tachocard App
 
-## Installation Debian/Ubuntu
-To install the app you need the pcsclite libraries:
+Download the application from the releases page:
+https://github.com/gsmvalve/navirec-tachocard-app-public/releases
+
+![App]()
+
+## Running under Debian/Ubuntu
+
+To install the app you need the pcsclite, pcscd libraries:
+
 ```
 apt-get install libpcsclite1 libpcsclite-dev
-```
-Install pcscd daemon:
-
-```
 apt-get install pcscd
 ```
+
 Start the pcscd service:
 
-``` 
+```
 service pcscd start
 ```
