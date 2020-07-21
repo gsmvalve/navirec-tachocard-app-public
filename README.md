@@ -3,7 +3,7 @@
 Download the application from the releases page:
 https://github.com/gsmvalve/navirec-tachocard-app-public/releases
 
-![App]()
+![App](https://raw.githubusercontent.com/gsmvalve/navirec-tachocard-app-public/master/app.png)
 
 ## Running under Debian/Ubuntu
 
